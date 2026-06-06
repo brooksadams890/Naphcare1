@@ -135,11 +135,9 @@ nav {
   opacity: 0;
   animation: rise 0.7s 0.1s var(--ease) forwards;
 }
-.hero-tag::before {
-  content: '';
-  width: 6px; height: 6px;
-  background: var(--green-light);
-  border-radius: 50%;
+.hero-tag svg {
+  width: 14px; height: 14px;
+  flex-shrink: 0;
 }
 
 .hero h1 {
