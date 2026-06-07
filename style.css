@@ -984,3 +984,13 @@ footer {
   .impact-inner { grid-template-columns: 1fr 1fr; }
   .footer-main { grid-template-columns: 1fr; }
 }
+
+/* ── Bootstrap Icons sizing ── */
+.badge-icon i        { font-size: 1.1rem; color: var(--green); }
+.serve-card-icon i   { font-size: 1.4rem; color: var(--green); }
+.step-icon i         { font-size: 1.4rem; color: var(--green-light); }
+.svc-icon i          { font-size: 1.6rem; color: var(--green); }
+.tech-bar-icon i     { font-size: 1rem;   color: var(--green); }
+.author-avatar i     { font-size: 1.3rem; color: var(--green); }
+.news-thumb i        { font-size: 2rem;   color: var(--green); }
+.pill i              { font-size: 0.85rem; }
