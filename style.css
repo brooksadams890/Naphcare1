@@ -15,7 +15,7 @@
   --white:       #ffffff;
   --cream:       #faf8f4;
   --amber:       #d4820a;
-  --logo-blue:   #0072BC;
+  --logo-blue:   #004a8f;
   --radius:      8px;
   --radius-lg:   16px;
   --radius-xl:   24px;
@@ -319,7 +319,7 @@ nav {
   line-height: 1.15;
   letter-spacing: -0.5px;
 }
-.mission-right p {
+.mission-inner .reveal > p {
   font-size: 1.05rem;
   line-height: 1.85;
   color: var(--white);
