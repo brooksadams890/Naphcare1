@@ -15,7 +15,7 @@
   --white:       #ffffff;
   --cream:       #faf8f4;
   --amber:       #d4820a;
-  --amber-light: #f0a830;
+  --logo-teal:   #00a89d;
   --radius:      8px;
   --radius-lg:   16px;
   --radius-xl:   24px;
@@ -152,7 +152,7 @@ nav {
   animation: rise 0.7s 0.2s var(--ease) forwards;
 }
 .hero h1 .highlight {
-  color: var(--green);
+  color: var(--logo-teal);
   font-style: italic;
 }
 
@@ -322,7 +322,7 @@ nav {
 .mission-right p {
   font-size: 1.05rem;
   line-height: 1.85;
-  color: rgba(255,255,255,0.7);
+  color: var(--white);
   margin-bottom: 2rem;
 }
 .mission-link {
